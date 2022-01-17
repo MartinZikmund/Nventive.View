@@ -6,15 +6,30 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
-### Added
+### **Added**
 * Support for Android 11 (March, 2021)
 
-### Changed
+### **Changed**
 
-### Deprecated
+### **Deprecated**
 
-### Removed
+### **Removed**
+| **Control** | **Alternative**|
+|------|-----------------|
+|  Image Presenter    |     ImagEx (**WCT**)  |
+|  SwipableItem    |     SwipeControl (in Uno, UWP, WinUI)  |
+|  MembershipCardControl    |    TODO: create its own package |
+|  LandscapeUprightPanel    |    TODO: create its own package for cards control |
+|  LogCounterControl    |     N/A  |
+|  StickyGroupHeaderBehavior    |     N/A  |
+|  FromDoubleArithmeticToStringConverter    |     N/A  |
+|  Lottie    |     Lottie (**WCT**)  |
+|  PathControl    |     PathIcon (**Uno**)  |
+
+| **Extension** | **Alternative**|
+|------|-----------------|
+|  ControlExtensions.AutoFocus   |     AutoFocus Behavior and FocusTracker (**WCT**)  |
 
 ### Fixed
 
-### Security
+### **Security**
